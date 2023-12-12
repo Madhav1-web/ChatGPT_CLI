@@ -12,4 +12,7 @@ How to USE:
 
 4) Run the program using, "node index.js"
 
+Summary Report:
+https://docs.google.com/document/d/1ZA3V4r35jHoRHWGnMqj6KJxAFyJ5Afxr/edit?usp=sharing&ouid=110747700293563606745&rtpof=true&sd=true
+
 
