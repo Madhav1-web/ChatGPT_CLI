@@ -1,5 +1,7 @@
 This CLI application uses the OpenAI GPT-3.5-turbo model to provide English explanations for code snippets. The app reads the content of a specified file, constructs a prompt for the OpenAI API, and outputs the generated explanation of the code and how to optimize it
 
+PS : I have removed my Private Key for security reason, you will need to update with your own api key
+
 How to USE:
 1) Clone the repository:
 
